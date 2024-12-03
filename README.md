@@ -1,6 +1,6 @@
 # Image-to-Image and Inpainting Pipeline from Scratch
 
-이 저장소에는 **Stable Diffusion 1.5**를 사용하여 `image2image` 및 `inpainting` 파이프라인을 처음 구현합니다.
+이 저장소에는 **Stable Diffusion 1.5**를 사용하여 `image2image` 및 `inpainting` 파이프라인을 처음부터 구현합니다.
 이 파이프라인은 [Diffusers](https://github.com/huggingface/diffusers)를 사용하였으며, 누구나 쉽게 읽고 이해하기 쉽도록 만들어졌습니다.
 This repository contains a from-scratch implementation of `image2image` and `inpainting` pipelines using **Stable Diffusion 1.5**. 
 The pipeline is built with [Diffusers](https://github.com/huggingface/diffusers) and is designed for ease of understanding.
